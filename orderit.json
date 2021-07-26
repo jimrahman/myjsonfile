@@ -1,0 +1,29 @@
+{
+    "restaurantName": "amar restaurant",
+    "menu": [
+      {
+        "category1": [
+          {
+            "name": "Vaat",
+            "price": 50
+          },
+          {
+            "name": "Daal",
+            "price": 40
+          }
+        ]
+      },
+      {
+        "category2": [
+          {
+            "name": "Burger",
+            "price": 100
+          },
+          {
+            "name": "Fries",
+            "price": 80
+          }
+        ]
+      }
+    ]
+  }
