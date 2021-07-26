@@ -1,4 +1,5 @@
-{
+[
+    {
     "restaurantName": "amar restaurant",
     "menu": [
       {
@@ -27,3 +28,4 @@
       }
     ]
   }
+]
